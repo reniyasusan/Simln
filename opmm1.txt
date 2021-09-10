@@ -1,0 +1,7 @@
+ mean interarrival time is 1.000000 
+ mean service time is 0.500000 
+ number of delay required is 1000 
+ average delay in Queue = 1.106000 
+ average number of customers in Queue = 0.432000 
+ proportion of time the server is busy = 0.152000 
+simulation end time = 580.000000
