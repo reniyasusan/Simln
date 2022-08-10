@@ -1,1 +1,1 @@
-# mm1-simln
+# m/m/1-simln
